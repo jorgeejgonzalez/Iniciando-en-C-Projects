@@ -1,8 +1,12 @@
-Iniciando en C++
+originalmente publicado en [mi blog](https://mondongorongo.wordpress.com/2015/01/06/iniciando-en-cpp-introduccion/) 
+--------
+#Iniciando en C++
 
-Repito: Iniciando en C++
+Repito: **Iniciando en C++**
 
-Ya paso el shock? Muy bien, permiteme decirte que estamos a punto de tomar un giro inesperado con mi blog y es que he decidido crear una serie de posts tutoriales en los que hablare sobre como programar en este lenguaje que tanta mala fama genera en los estudiantes de informática y el cual muchos consideran como algo del pasado, ya que el 90% de las personas que alguna vez han visto C++ en un salón de clase no han visto ni el 10% de sus capacidades. Con esto lo que quiero ilustrar es que normalmente cuando escuchamos hablar de C++, lo que se dice es que no deberíamos perder mucho tiempo con este lenguaje de bajo nivel y que en su lugar deberíamos esforzarnos por dar el salto a lenguajes de mas alto nivel donde encontraremos mas oportunidades de desarrollo profesional; y quizás esto no este del todo errado, es posible que hasta sea lo “correcto” en algunos casos para personas con  intereses específicos, pero hay un punto que siempre me gusta hacer a favor de C++, y es que un programador que logra maestría de cierto nivel sobre este lenguaje puede abordar la mayoría de los lenguajes modernos y dominarles con mas facilidad que alguien que haya decidido ignorar C++.
+Ya paso el shock? 
+
+Muy bien, permiteme decirte que estamos a punto de tomar un giro inesperado con mi blog y es que he decidido crear una serie de posts tutoriales en los que hablare sobre como programar en este lenguaje que tanta mala fama genera en los estudiantes de informática y el cual muchos consideran como algo del pasado, ya que el 90% de las personas que alguna vez han visto C++ en un salón de clase no han visto ni el 10% de sus capacidades. Con esto lo que quiero ilustrar es que normalmente cuando escuchamos hablar de C++, lo que se dice es que no deberíamos perder mucho tiempo con este lenguaje de bajo nivel y que en su lugar deberíamos esforzarnos por dar el salto a lenguajes de mas alto nivel donde encontraremos mas oportunidades de desarrollo profesional; y quizás esto no este del todo errado, es posible que hasta sea lo “correcto” en algunos casos para personas con  intereses específicos, pero hay un punto que siempre me gusta hacer a favor de C++, y es que un programador que logra maestría de cierto nivel sobre este lenguaje puede abordar la mayoría de los lenguajes modernos y dominarles con mas facilidad que alguien que haya decidido ignorar C++.
 
 Si alguien te pregunta que tienen en común el Kernel de Linux y Call Of Duty: Advanced Warfare? la respuesta clara es que ambos fueron desarrollados utilizando C++, y es que aunque en todos los videojuegos se involucran mas elementos que solo el lenguaje base, , y es que al ser un lenguaje tan puro y prácticamente carente de un paradigma propio (no es 100% así pero lo veremos a futuro), es posible explorar  conceptos de mayor o menor envergadura en un mismo lenguaje sin alterar mucho nuestra percepción de como funciona el mismo. Es decir, podemos crear programas bajo el paradigma procedural o ir de lleno hacia una desarrollo orientado a objetos o explorar el desarrollo de software funcional, todo esto utilizando la misma sintaxis de lenguaje y las mismas herramientas de desarrollo.  Ahora bien, si tu, querido lector, solo estas empezando en el mundo de la programación, esta capacidad no te dirá nada, ya que los diferentes paradigmas de desarrollo son un tópico un poco mas profundo, pero lo que quiero darte a entender es que C++ es extremadamente flexible y considerablemente mas veloz que la mayoría de los otros lenguajes de desarrollo, y este es un punto muy importante, aquí te pido que me tengas un poco de fe y confíes en que en un futuro no muy lejano entenderás porque esto es tan importante.
 
@@ -12,7 +16,7 @@ Ahora bien, explico porque decidí entrar en el mundo de los tutoriales; hace poc
 
 Luego de pensar y buscar algo similar me di cuenta de que no había mucho que le pudiera ofrecer a mi pupilo que se equivaliera al contenido de este libro, fue entonces cuando decidí empezar un proyecto de “traducción no oficial” del libro, en el cual aunque voy a prestar mucho del contenido del libro, también complementare con ideas propias y mi manera de explicar ideas y ejemplos (aunque aun no estoy 100% claro de algunas cosas). Igualmente, pienso hablar un poco sobre mis propias practicas de Clean Code (Código Limpio), algo que pienso  es muy importante que todo programador aprenda desde el momento cero, mas aun en este lenguaje donde vemos como algo tan normal la ruptura de la legibilidad del código (de esto hablaremos con mas detalle mas adelante).
 
-Creo que es el momento ideal para mostrar un poco del esquema (que no es un conteo exacto de posts) que tengo planeado para estos tutoriales:
+Creo que es el momento ideal para mostrar un poco del esquema que tengo planeado para estos tutoriales:
 
 1. Bases Técnicas del Desarrollo en C++
 2. Entornos de Desarrollo Integrados
@@ -29,3 +33,7 @@ Creo que es el momento ideal para mostrar un poco del esquema (que no es un cont
 13. Herencia y Poliformismo
 
 Espero disfrutes el contenido del curso y cualquier comentario (positivo o negativo) es bienvenido.
+
+####Jorge Gonzalez
+* [@mondongorongo](https://twitter.com/mondongorongo)
+* [MondongoSoft en Wordpress](https://mondongorongo.wordpress.com/)
