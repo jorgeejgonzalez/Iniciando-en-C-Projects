@@ -1,4 +1,5 @@
 #include <iostream>
+
 void mostrarAtributosArma()
 {
 	std::cout << "================== ATRIBUTOS DEL ARMA ==================" << std::endl;
@@ -14,8 +15,37 @@ void mostrarAtributosArma()
 	std::cout << "Movilidad : " << 12 << std::endl;
 	std::cout << "--------------------------------------------------------" << std::endl;
 }
+
+void mostrarFichaClan()
+{
+	char* nombre = "ATLAS";
+	char* tag = "ATL";
+	char* lema = "El poder lo cambia todo";
+	int experienciaAcumulada = 90000;
+	int experienciaSiguienteNivel = 20000;
+	short int nivel = 11;
+	unsigned short int miembros = 13;
+	float relacionMuertesMuertos = 0.91f;
+	float relacionVictoriasDerrotas = 0.37f;
+
+	std::cout << "================== PERFIL DEL CLAN =====================" << std::endl;
+	std::cout << "Nombre : " << nombre << std::endl;
+	std::cout << "Tag : [" << tag << "]" << std::endl;
+	std::cout << "Lema : " << lema;
+	std::cout << "Estadísticas : " << std::endl;
+	std::cout << " - Nivel : " << nivel << std::endl;
+	std::cout << " - Experiencia Acumulada : " << experienciaAcumulada << std::endl;
+	std::cout << " - Experiencia para Siguiente Nivel : " << experienciaSiguienteNivel << std::endl;
+	std::cout << " - Miembros : " << miembros << std::endl;
+	std::cout << " - Relacion Muertes/Muertos : " << relacionMuertesMuertos << std::endl;
+	std::cout << " - Relacion Victorias/Derrotas : " << relacionVictoriasDerrotas << std::endl;
+	std::cout << "--------------------------------------------------------" << std::endl;
+}
+
 int main()
 {
 	mostrarAtributosArma();
+	mostrarFichaClan();
 	return 0;
 }
+
